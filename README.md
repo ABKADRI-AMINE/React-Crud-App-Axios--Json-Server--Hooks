@@ -69,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# React-Crud-App-Axios--Json-Server--Hooks" 
+
+##Demo
+![image](https://github.com/ABKADRI-AMINE/React-Crud-App-Axios--Json-Server--Hooks/assets/104569983/6c2fa865-b60b-48d6-b531-00d6be398135)
+![image](https://github.com/ABKADRI-AMINE/React-Crud-App-Axios--Json-Server--Hooks/assets/104569983/897ffdb6-5843-4f5b-837b-39e12c7b8c47)
+![image](https://github.com/ABKADRI-AMINE/React-Crud-App-Axios--Json-Server--Hooks/assets/104569983/24b9bbc0-4c88-487b-b174-657f118b648a)
+
+
+
